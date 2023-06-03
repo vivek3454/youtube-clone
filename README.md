@@ -9,7 +9,7 @@ JavaScript
 React JS
 
 ### Description
-It is a functional Youtube clone . It gives you access to watch different vides.
+It is a functional Youtube clone . It gives you access to watch different videos.
 
 ### Key Features
 
